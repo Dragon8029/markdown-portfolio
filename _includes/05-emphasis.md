@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+So far in my coding journey I have learned *HTML* and *CSS*. I am currently trying to learn **JavaScript** which is turning out to be _**harder**_ than I thought it would be. 
