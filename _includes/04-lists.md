@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Listening to music
+* Playing music
+* Coding
+* Learning new things
